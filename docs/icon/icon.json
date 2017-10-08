@@ -1,12 +1,15 @@
 {
-    "name": "<name>",
+    "name": "Honeycomb",
     "license": "Public Domain",
-    "url": "<url>",
+    "url": "https://thenounproject.com/term/honeycomb/125100/",
     "author": {
-        "name": "<author>",
-        "url": "<author url>"
+        "name": "marcela contreras",
+        "url": "https://thenounproject.com/contreras.mkt/"
     },
     "tags": [
-        "<tags>"
+        "Honeycomb",
+        "Honey",
+        "Honey Comb",
+        "Hexagonal Wax"
     ]
 }
