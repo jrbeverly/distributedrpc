@@ -20,6 +20,10 @@ make exec && ./binder
 
 You can also invidiaully build each component with `make <component>`.
 
+## Notes
+
+The project is over-commented to explain each line of code. This is for the purposes of explaining how the overall project connects together.
+
 ## Acknowledgements
 
 The project icon is retrieved from [the Noun Project](docs/icon/icon.json). The original source material has been altered for the purposes of the project. The icon is used under the terms of the [Public Domain](https://creativecommons.org/publicdomain/zero/1.0/).

@@ -1,12 +1,3 @@
-/*
- * binder.cpp
- *
- * This file is the binder program,
- * which handles the registration of servers, location requests, and cache requests.
- */
-
- //TODO: Convert to a 'Binder'
-
 #include <iostream>
 #include <cstdlib>
 #include <sys/types.h>
