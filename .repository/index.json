@@ -19,6 +19,7 @@
   "languages": [
     "C",
     "C++",
+    "Dockerfile",
     "Makefile",
     "Objective-C",
     "Shell"
