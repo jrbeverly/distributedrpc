@@ -1,0 +1,20 @@
+slug: distributedrpc
+description: A multi-client, multi-server environment that relies on a binder to facilitate an RPC system.
+project: uwaterloo
+namespace:
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2017
+topics: |-
+  [
+    "rpc",
+    "rpc-client",
+    "rpc-framework",
+    "courseware",
+    "experiments",
+    "commands",
+    "protocol"
+  ]
